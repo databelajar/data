@@ -6,6 +6,7 @@
 </head>
 
 <body>
+inputkan nama
 <form id="form1" name="form1" method="post" action="">
   nama
   <label for="nama"></label>
